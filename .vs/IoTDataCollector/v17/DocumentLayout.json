@@ -1,0 +1,405 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\Documents\\Adv Programming\\ChimaAssignment\\IoTDataCollector\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{07EB12F9-943A-4BE6-9E69-BB38556351BD}|MonitoringStationAPI\\IOTDataCollectorAPI.csproj|c:\\users\\user\\documents\\adv programming\\chimaassignment\\iotdatacollector\\monitoringstationapi\\controllers\\temperaturemonitoringcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07EB12F9-943A-4BE6-9E69-BB38556351BD}|MonitoringStationAPI\\IOTDataCollectorAPI.csproj|solutionrelative:monitoringstationapi\\controllers\\temperaturemonitoringcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07EB12F9-943A-4BE6-9E69-BB38556351BD}|MonitoringStationAPI\\IOTDataCollectorAPI.csproj|c:\\users\\user\\documents\\adv programming\\chimaassignment\\iotdatacollector\\monitoringstationapi\\controllers\\sensorscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07EB12F9-943A-4BE6-9E69-BB38556351BD}|MonitoringStationAPI\\IOTDataCollectorAPI.csproj|solutionrelative:monitoringstationapi\\controllers\\sensorscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC3D1E70-C157-49B2-9D47-18121C8F3999}|SensorsAPI\\SensorsAPI.csproj|c:\\users\\user\\documents\\adv programming\\chimaassignment\\iotdatacollector\\sensorsapi\\.env||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{BC3D1E70-C157-49B2-9D47-18121C8F3999}|SensorsAPI\\SensorsAPI.csproj|solutionrelative:sensorsapi\\.env||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C80E68F0-4893-41A9-8957-1AB6C0598330}|backend\\backend.csproj|c:\\users\\user\\documents\\adv programming\\chimaassignment\\iotdatacollector\\backend\\models\\userregister.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C80E68F0-4893-41A9-8957-1AB6C0598330}|backend\\backend.csproj|solutionrelative:backend\\models\\userregister.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07EB12F9-943A-4BE6-9E69-BB38556351BD}|MonitoringStationAPI\\IOTDataCollectorAPI.csproj|c:\\users\\user\\documents\\adv programming\\chimaassignment\\iotdatacollector\\monitoringstationapi\\database\\iotdatacollectordbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07EB12F9-943A-4BE6-9E69-BB38556351BD}|MonitoringStationAPI\\IOTDataCollectorAPI.csproj|solutionrelative:monitoringstationapi\\database\\iotdatacollectordbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07EB12F9-943A-4BE6-9E69-BB38556351BD}|MonitoringStationAPI\\IOTDataCollectorAPI.csproj|c:\\users\\user\\documents\\adv programming\\chimaassignment\\iotdatacollector\\monitoringstationapi\\models\\sensorsdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07EB12F9-943A-4BE6-9E69-BB38556351BD}|MonitoringStationAPI\\IOTDataCollectorAPI.csproj|solutionrelative:monitoringstationapi\\models\\sensorsdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07EB12F9-943A-4BE6-9E69-BB38556351BD}|MonitoringStationAPI\\IOTDataCollectorAPI.csproj|c:\\users\\user\\documents\\adv programming\\chimaassignment\\iotdatacollector\\monitoringstationapi\\models\\sensors.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07EB12F9-943A-4BE6-9E69-BB38556351BD}|MonitoringStationAPI\\IOTDataCollectorAPI.csproj|solutionrelative:monitoringstationapi\\models\\sensors.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07EB12F9-943A-4BE6-9E69-BB38556351BD}|MonitoringStationAPI\\IOTDataCollectorAPI.csproj|c:\\users\\user\\documents\\adv programming\\chimaassignment\\iotdatacollector\\monitoringstationapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07EB12F9-943A-4BE6-9E69-BB38556351BD}|MonitoringStationAPI\\IOTDataCollectorAPI.csproj|solutionrelative:monitoringstationapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C80E68F0-4893-41A9-8957-1AB6C0598330}|backend\\backend.csproj|c:\\users\\user\\documents\\adv programming\\chimaassignment\\iotdatacollector\\backend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C80E68F0-4893-41A9-8957-1AB6C0598330}|backend\\backend.csproj|solutionrelative:backend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC3D1E70-C157-49B2-9D47-18121C8F3999}|SensorsAPI\\SensorsAPI.csproj|c:\\users\\user\\documents\\adv programming\\chimaassignment\\iotdatacollector\\sensorsapi\\controllers\\temperaturesensorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC3D1E70-C157-49B2-9D47-18121C8F3999}|SensorsAPI\\SensorsAPI.csproj|solutionrelative:sensorsapi\\controllers\\temperaturesensorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C80E68F0-4893-41A9-8957-1AB6C0598330}|backend\\backend.csproj|c:\\users\\user\\documents\\adv programming\\chimaassignment\\iotdatacollector\\backend\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C80E68F0-4893-41A9-8957-1AB6C0598330}|backend\\backend.csproj|solutionrelative:backend\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C80E68F0-4893-41A9-8957-1AB6C0598330}|backend\\backend.csproj|c:\\users\\user\\documents\\adv programming\\chimaassignment\\iotdatacollector\\backend\\migrations\\20240729211309_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C80E68F0-4893-41A9-8957-1AB6C0598330}|backend\\backend.csproj|solutionrelative:backend\\migrations\\20240729211309_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C80E68F0-4893-41A9-8957-1AB6C0598330}|backend\\backend.csproj|c:\\users\\user\\documents\\adv programming\\chimaassignment\\iotdatacollector\\backend\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C80E68F0-4893-41A9-8957-1AB6C0598330}|backend\\backend.csproj|solutionrelative:backend\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C80E68F0-4893-41A9-8957-1AB6C0598330}|backend\\backend.csproj|c:\\users\\user\\documents\\adv programming\\chimaassignment\\iotdatacollector\\backend\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C80E68F0-4893-41A9-8957-1AB6C0598330}|backend\\backend.csproj|solutionrelative:backend\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C80E68F0-4893-41A9-8957-1AB6C0598330}|backend\\backend.csproj|c:\\users\\user\\documents\\adv programming\\chimaassignment\\iotdatacollector\\backend\\backend.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{C80E68F0-4893-41A9-8957-1AB6C0598330}|backend\\backend.csproj|solutionrelative:backend\\backend.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C80E68F0-4893-41A9-8957-1AB6C0598330}|backend\\backend.csproj|c:\\users\\user\\documents\\adv programming\\chimaassignment\\iotdatacollector\\backend\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C80E68F0-4893-41A9-8957-1AB6C0598330}|backend\\backend.csproj|solutionrelative:backend\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C80E68F0-4893-41A9-8957-1AB6C0598330}|backend\\backend.csproj|c:\\users\\user\\documents\\adv programming\\chimaassignment\\iotdatacollector\\backend\\database\\iotdatacollectordbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C80E68F0-4893-41A9-8957-1AB6C0598330}|backend\\backend.csproj|solutionrelative:backend\\database\\iotdatacollectordbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC3D1E70-C157-49B2-9D47-18121C8F3999}|SensorsAPI\\SensorsAPI.csproj|c:\\users\\user\\documents\\adv programming\\chimaassignment\\iotdatacollector\\sensorsapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC3D1E70-C157-49B2-9D47-18121C8F3999}|SensorsAPI\\SensorsAPI.csproj|solutionrelative:sensorsapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66AF8107-B2CD-44B1-9874-A92D1AAFA8DC}|Sensors\\Sensors.csproj|c:\\users\\user\\documents\\adv programming\\chimaassignment\\iotdatacollector\\sensors\\temperaturesensor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66AF8107-B2CD-44B1-9874-A92D1AAFA8DC}|Sensors\\Sensors.csproj|solutionrelative:sensors\\temperaturesensor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC3D1E70-C157-49B2-9D47-18121C8F3999}|SensorsAPI\\SensorsAPI.csproj|c:\\users\\user\\documents\\adv programming\\chimaassignment\\iotdatacollector\\sensorsapi\\backgroundservices\\temperaturereadingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC3D1E70-C157-49B2-9D47-18121C8F3999}|SensorsAPI\\SensorsAPI.csproj|solutionrelative:sensorsapi\\backgroundservices\\temperaturereadingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC3D1E70-C157-49B2-9D47-18121C8F3999}|SensorsAPI\\SensorsAPI.csproj|c:\\users\\user\\documents\\adv programming\\chimaassignment\\iotdatacollector\\sensorsapi\\models\\sensorsdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC3D1E70-C157-49B2-9D47-18121C8F3999}|SensorsAPI\\SensorsAPI.csproj|solutionrelative:sensorsapi\\models\\sensorsdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07EB12F9-943A-4BE6-9E69-BB38556351BD}|MonitoringStationAPI\\IOTDataCollectorAPI.csproj|c:\\users\\user\\documents\\adv programming\\chimaassignment\\iotdatacollector\\monitoringstationapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{07EB12F9-943A-4BE6-9E69-BB38556351BD}|MonitoringStationAPI\\IOTDataCollectorAPI.csproj|solutionrelative:monitoringstationapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07EB12F9-943A-4BE6-9E69-BB38556351BD}|MonitoringStationAPI\\IOTDataCollectorAPI.csproj|c:\\users\\user\\documents\\adv programming\\chimaassignment\\iotdatacollector\\monitoringstationapi\\migrations\\20240512180509_addedsensors.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07EB12F9-943A-4BE6-9E69-BB38556351BD}|MonitoringStationAPI\\IOTDataCollectorAPI.csproj|solutionrelative:monitoringstationapi\\migrations\\20240512180509_addedsensors.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TemperatureMonitoringController.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\Adv Programming\\ChimaAssignment\\IoTDataCollector\\MonitoringStationAPI\\Controllers\\TemperatureMonitoringController.cs",
+              "RelativeDocumentMoniker": "MonitoringStationAPI\\Controllers\\TemperatureMonitoringController.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\Adv Programming\\ChimaAssignment\\IoTDataCollector\\MonitoringStationAPI\\Controllers\\TemperatureMonitoringController.cs",
+              "RelativeToolTip": "MonitoringStationAPI\\Controllers\\TemperatureMonitoringController.cs",
+              "ViewState": "AQIAACgAAAAAAAAAAAAiwDsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-20T12:04:05.611Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SensorsData.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\Adv Programming\\ChimaAssignment\\IoTDataCollector\\MonitoringStationAPI\\Models\\SensorsData.cs",
+              "RelativeDocumentMoniker": "MonitoringStationAPI\\Models\\SensorsData.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\Adv Programming\\ChimaAssignment\\IoTDataCollector\\MonitoringStationAPI\\Models\\SensorsData.cs",
+              "RelativeToolTip": "MonitoringStationAPI\\Models\\SensorsData.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-20T11:07:55.26Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\Adv Programming\\ChimaAssignment\\IoTDataCollector\\MonitoringStationAPI\\Program.cs",
+              "RelativeDocumentMoniker": "MonitoringStationAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\Adv Programming\\ChimaAssignment\\IoTDataCollector\\MonitoringStationAPI\\Program.cs",
+              "RelativeToolTip": "MonitoringStationAPI\\Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAIBJwBgAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-20T11:11:10.642Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\Adv Programming\\ChimaAssignment\\IoTDataCollector\\backend\\Program.cs",
+              "RelativeDocumentMoniker": "backend\\Program.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\Adv Programming\\ChimaAssignment\\IoTDataCollector\\backend\\Program.cs",
+              "RelativeToolTip": "backend\\Program.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAIBJwCQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-29T20:45:56.681Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Sensors.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\Adv Programming\\ChimaAssignment\\IoTDataCollector\\MonitoringStationAPI\\Models\\Sensors.cs",
+              "RelativeDocumentMoniker": "MonitoringStationAPI\\Models\\Sensors.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\Adv Programming\\ChimaAssignment\\IoTDataCollector\\MonitoringStationAPI\\Models\\Sensors.cs",
+              "RelativeToolTip": "MonitoringStationAPI\\Models\\Sensors.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T17:46:24.606Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UserRegister.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\Adv Programming\\ChimaAssignment\\IoTDataCollector\\backend\\Models\\UserRegister.cs",
+              "RelativeDocumentMoniker": "backend\\Models\\UserRegister.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\Adv Programming\\ChimaAssignment\\IoTDataCollector\\backend\\Models\\UserRegister.cs",
+              "RelativeToolTip": "backend\\Models\\UserRegister.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-29T21:16:17.64Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SensorsController.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\Adv Programming\\ChimaAssignment\\IoTDataCollector\\MonitoringStationAPI\\Controllers\\SensorsController.cs",
+              "RelativeDocumentMoniker": "MonitoringStationAPI\\Controllers\\SensorsController.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\Adv Programming\\ChimaAssignment\\IoTDataCollector\\MonitoringStationAPI\\Controllers\\SensorsController.cs",
+              "RelativeToolTip": "MonitoringStationAPI\\Controllers\\SensorsController.cs",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAuwC0AAABWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T17:57:27.253Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IoTDataCollectorDBContext.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\Adv Programming\\ChimaAssignment\\IoTDataCollector\\MonitoringStationAPI\\Database\\IoTDataCollectorDBContext.cs",
+              "RelativeDocumentMoniker": "MonitoringStationAPI\\Database\\IoTDataCollectorDBContext.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\Adv Programming\\ChimaAssignment\\IoTDataCollector\\MonitoringStationAPI\\Database\\IoTDataCollectorDBContext.cs",
+              "RelativeToolTip": "MonitoringStationAPI\\Database\\IoTDataCollectorDBContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-20T11:02:34.44Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": ".env",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\Adv Programming\\ChimaAssignment\\IoTDataCollector\\SensorsAPI\\.env",
+              "RelativeDocumentMoniker": "SensorsAPI\\.env",
+              "ToolTip": "C:\\Users\\user\\Documents\\Adv Programming\\ChimaAssignment\\IoTDataCollector\\SensorsAPI\\.env",
+              "RelativeToolTip": "SensorsAPI\\.env",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-06-07T00:30:19.436Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "TemperatureSensorController.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\Adv Programming\\ChimaAssignment\\IoTDataCollector\\SensorsAPI\\Controllers\\TemperatureSensorController.cs",
+              "RelativeDocumentMoniker": "SensorsAPI\\Controllers\\TemperatureSensorController.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\Adv Programming\\ChimaAssignment\\IoTDataCollector\\SensorsAPI\\Controllers\\TemperatureSensorController.cs",
+              "RelativeToolTip": "SensorsAPI\\Controllers\\TemperatureSensorController.cs",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAYwD8AAABgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-20T10:34:19.556Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\Adv Programming\\ChimaAssignment\\IoTDataCollector\\backend\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "backend\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\Adv Programming\\ChimaAssignment\\IoTDataCollector\\backend\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "backend\\Controllers\\AuthController.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAcwB4AAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-29T16:18:14.803Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "backend.csproj",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\Adv Programming\\ChimaAssignment\\IoTDataCollector\\backend\\backend.csproj",
+              "RelativeDocumentMoniker": "backend\\backend.csproj",
+              "ToolTip": "C:\\Users\\user\\Documents\\Adv Programming\\ChimaAssignment\\IoTDataCollector\\backend\\backend.csproj",
+              "RelativeToolTip": "backend\\backend.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-29T16:18:00.684Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "IOTDataCollectorDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\Adv Programming\\ChimaAssignment\\IoTDataCollector\\backend\\Database\\IOTDataCollectorDbContext.cs",
+              "RelativeDocumentMoniker": "backend\\Database\\IOTDataCollectorDbContext.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\Adv Programming\\ChimaAssignment\\IoTDataCollector\\backend\\Database\\IOTDataCollectorDbContext.cs",
+              "RelativeToolTip": "backend\\Database\\IOTDataCollectorDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-29T20:39:14.372Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\Adv Programming\\ChimaAssignment\\IoTDataCollector\\backend\\Services\\UserService.cs",
+              "RelativeDocumentMoniker": "backend\\Services\\UserService.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\Adv Programming\\ChimaAssignment\\IoTDataCollector\\backend\\Services\\UserService.cs",
+              "RelativeToolTip": "backend\\Services\\UserService.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAYwAkAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-29T20:44:23.799Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\Adv Programming\\ChimaAssignment\\IoTDataCollector\\backend\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "backend\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\Adv Programming\\ChimaAssignment\\IoTDataCollector\\backend\\Controllers\\UserController.cs",
+              "RelativeToolTip": "backend\\Controllers\\UserController.cs",
+              "ViewState": "AQIAAEcAAAAAAAAAAAAgwA0AAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-29T20:44:57.477Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "20240729211309_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\Adv Programming\\ChimaAssignment\\IoTDataCollector\\backend\\Migrations\\20240729211309_InitialCreate.cs",
+              "RelativeDocumentMoniker": "backend\\Migrations\\20240729211309_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\Adv Programming\\ChimaAssignment\\IoTDataCollector\\backend\\Migrations\\20240729211309_InitialCreate.cs",
+              "RelativeToolTip": "backend\\Migrations\\20240729211309_InitialCreate.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-29T21:13:10.486Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\Adv Programming\\ChimaAssignment\\IoTDataCollector\\backend\\appsettings.json",
+              "RelativeDocumentMoniker": "backend\\appsettings.json",
+              "ToolTip": "C:\\Users\\user\\Documents\\Adv Programming\\ChimaAssignment\\IoTDataCollector\\backend\\appsettings.json",
+              "RelativeToolTip": "backend\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-29T21:09:15.086Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Microsoft.Common.CurrentVersion.targets",
+              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "ViewState": "AQIAAFcIAAAAAAAAAAAvwGgIAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2024-06-07T01:32:49.736Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\Adv Programming\\ChimaAssignment\\IoTDataCollector\\MonitoringStationAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "MonitoringStationAPI\\appsettings.json",
+              "ToolTip": "C:\\Users\\user\\Documents\\Adv Programming\\ChimaAssignment\\IoTDataCollector\\MonitoringStationAPI\\appsettings.json",
+              "RelativeToolTip": "MonitoringStationAPI\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-20T11:11:09.147Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\Adv Programming\\ChimaAssignment\\IoTDataCollector\\SensorsAPI\\Program.cs",
+              "RelativeDocumentMoniker": "SensorsAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\Adv Programming\\ChimaAssignment\\IoTDataCollector\\SensorsAPI\\Program.cs",
+              "RelativeToolTip": "SensorsAPI\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T14:30:01.551Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "TemperatureSensor.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\Adv Programming\\ChimaAssignment\\IoTDataCollector\\Sensors\\TemperatureSensor.cs",
+              "RelativeDocumentMoniker": "Sensors\\TemperatureSensor.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\Adv Programming\\ChimaAssignment\\IoTDataCollector\\Sensors\\TemperatureSensor.cs",
+              "RelativeToolTip": "Sensors\\TemperatureSensor.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-20T10:34:10.079Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "TemperatureReadingService.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\Adv Programming\\ChimaAssignment\\IoTDataCollector\\SensorsAPI\\BackgroundServices\\TemperatureReadingService.cs",
+              "RelativeDocumentMoniker": "SensorsAPI\\BackgroundServices\\TemperatureReadingService.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\Adv Programming\\ChimaAssignment\\IoTDataCollector\\SensorsAPI\\BackgroundServices\\TemperatureReadingService.cs",
+              "RelativeToolTip": "SensorsAPI\\BackgroundServices\\TemperatureReadingService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-20T13:32:23.953Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "20240512180509_AddedSensors.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\Adv Programming\\ChimaAssignment\\IoTDataCollector\\MonitoringStationAPI\\Migrations\\20240512180509_AddedSensors.cs",
+              "RelativeDocumentMoniker": "MonitoringStationAPI\\Migrations\\20240512180509_AddedSensors.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\Adv Programming\\ChimaAssignment\\IoTDataCollector\\MonitoringStationAPI\\Migrations\\20240512180509_AddedSensors.cs",
+              "RelativeToolTip": "MonitoringStationAPI\\Migrations\\20240512180509_AddedSensors.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T18:05:09.477Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "SensorsData.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\Adv Programming\\ChimaAssignment\\IoTDataCollector\\SensorsAPI\\Models\\SensorsData.cs",
+              "RelativeDocumentMoniker": "SensorsAPI\\Models\\SensorsData.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\Adv Programming\\ChimaAssignment\\IoTDataCollector\\SensorsAPI\\Models\\SensorsData.cs",
+              "RelativeToolTip": "SensorsAPI\\Models\\SensorsData.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-20T11:36:58.026Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

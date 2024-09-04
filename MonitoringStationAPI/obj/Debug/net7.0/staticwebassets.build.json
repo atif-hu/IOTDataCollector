@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "vRE/TaHkgExLxoZLFdPKfDfXrxp2BPurfnAEY6bbpqc=",
+  "Source": "IOTDataCollectorAPI",
+  "BasePath": "_content/IOTDataCollectorAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

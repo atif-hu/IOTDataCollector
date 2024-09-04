@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\IOTDataCollectorAPI.props" />
+</Project>
