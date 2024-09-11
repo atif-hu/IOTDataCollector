@@ -22,4 +22,10 @@
     <ProjectReference Include="..\Sensors\Sensors.csproj" />
   </ItemGroup>
 
+<ItemGroup>
+  <Content Remove="appsettings.json" />
+  <Content Remove="appsettings.Development.json" />
+</ItemGroup>
+
+
 </Project>

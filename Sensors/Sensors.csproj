@@ -8,6 +8,8 @@
 
   <ItemGroup>
     <PackageReference Include="System.IdentityModel.Tokens.Jwt" Version="8.0.1" />
+<None Remove="appsettings.Development.json" />
+<None Remove="appsettings.json" />
   </ItemGroup>
 
 </Project>
