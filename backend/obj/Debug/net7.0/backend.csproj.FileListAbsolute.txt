@@ -71,3 +71,4 @@ C:\Users\user\Documents\Adv Programming\ChimaAssignment\IoTDataCollector\backend
 C:\Users\user\Documents\Adv Programming\ChimaAssignment\IoTDataCollector\backend\obj\Debug\net7.0\backend.pdb
 C:\Users\user\Documents\Adv Programming\ChimaAssignment\IoTDataCollector\backend\obj\Debug\net7.0\backend.genruntimeconfig.cache
 C:\Users\user\Documents\Adv Programming\ChimaAssignment\IoTDataCollector\backend\obj\Debug\net7.0\ref\backend.dll
+C:\Users\user\Documents\Adv Programming\ChimaAssignment\IoTDataCollector\backend\obj\Debug\net7.0\backend.sourcelink.json

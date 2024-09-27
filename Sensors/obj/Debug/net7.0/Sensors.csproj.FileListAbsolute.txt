@@ -32,3 +32,4 @@ C:\Users\user\Documents\Adv Programming\ChimaAssignment\IoTDataCollector\Sensors
 C:\Users\user\Documents\Adv Programming\ChimaAssignment\IoTDataCollector\Sensors\obj\Debug\net7.0\Sensors.pdb
 C:\Users\user\Documents\Adv Programming\ChimaAssignment\IoTDataCollector\Sensors\obj\Debug\net7.0\ref\Sensors.dll
 C:\Users\user\Documents\Adv Programming\ChimaAssignment\IoTDataCollector\Sensors\obj\Debug\net7.0\Sensors.csproj.AssemblyReference.cache
+C:\Users\user\Documents\Adv Programming\ChimaAssignment\IoTDataCollector\Sensors\obj\Debug\net7.0\Sensors.sourcelink.json

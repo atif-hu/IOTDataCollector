@@ -6,13 +6,21 @@ var builder = WebApplication.CreateBuilder(args);
 // Add services to the container.
 builder.Services.AddControllers();
 
-// DbContext
+// Add DbContext with SQLite connection
 builder.Services.AddDbContext<IoTDataCollectorDBContext>(options =>
     options.UseSqlite(builder.Configuration.GetConnectionString("SQLiteConnection")));
 
+// Add Swagger for API documentation
 builder.Services.AddSwaggerGen();
 
 var app = builder.Build();
+
+// Automatically apply database migrations during startup
+using (var scope = app.Services.CreateScope())
+{
+    var dbContext = scope.ServiceProvider.GetRequiredService<IoTDataCollectorDBContext>();
+    dbContext.Database.Migrate(); // This will apply any pending migrations
+}
 
 // Configure the HTTP request pipeline.
 if (app.Environment.IsDevelopment())
@@ -22,7 +30,7 @@ if (app.Environment.IsDevelopment())
 }
 
 app.UseCors(builder => builder
-    .WithOrigins("http://localhost:3000") 
+    .WithOrigins("http://13.60.33.37:3000") 
     .AllowAnyHeader()
     .AllowAnyMethod());
 

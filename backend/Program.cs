@@ -36,7 +36,7 @@ if (app.Environment.IsDevelopment())
 }
 
 app.UseCors(builder => builder
-    .WithOrigins("http://localhost:3000") // Replace with your React app URL
+    .WithOrigins("http://13.60.33.37:3000") // Replace with your React app URL
     .AllowAnyHeader()
     .AllowAnyMethod());
 

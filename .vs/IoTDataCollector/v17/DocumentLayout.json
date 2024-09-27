@@ -115,7 +115,7 @@
               "RelativeDocumentMoniker": "MonitoringStationAPI\\Controllers\\TemperatureMonitoringController.cs",
               "ToolTip": "C:\\Users\\user\\Documents\\Adv Programming\\ChimaAssignment\\IoTDataCollector\\MonitoringStationAPI\\Controllers\\TemperatureMonitoringController.cs",
               "RelativeToolTip": "MonitoringStationAPI\\Controllers\\TemperatureMonitoringController.cs",
-              "ViewState": "AQIAACgAAAAAAAAAAAAiwDsAAAAAAAAA",
+              "ViewState": "AQIAADcAAAAAAAAAAAAkwDsAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-20T12:04:05.611Z",
               "EditorCaption": ""
@@ -190,8 +190,7 @@
               "RelativeToolTip": "MonitoringStationAPI\\Controllers\\SensorsController.cs",
               "ViewState": "AQIAAB8AAAAAAAAAAAAuwC0AAABWAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-12T17:57:27.253Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-12T17:57:27.253Z"
             },
             {
               "$type": "Document",

@@ -9,8 +9,8 @@ const config = {
   mode: 'light',
   presetColor: 'default',
   themeDirection: 'ltr',
-  BACKEND_LOCALHOST: 'https://localhost:7288',
-  IOTDataCollectorAPI_LOCALHOST: 'https://localhost:7263'
+  BACKEND_LOCALHOST: 'http://13.60.33.37:5001',
+  IOTDataCollectorAPI_LOCALHOST: 'http://13.60.33.37:5002',
 };
 
 export default config;

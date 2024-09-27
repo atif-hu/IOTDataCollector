@@ -139,3 +139,4 @@ C:\Users\user\Documents\Adv Programming\ChimaAssignment\IoTDataCollector\Monitor
 C:\Users\user\Documents\Adv Programming\ChimaAssignment\IoTDataCollector\MonitoringStationAPI\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
 C:\Users\user\Documents\Adv Programming\ChimaAssignment\IoTDataCollector\MonitoringStationAPI\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
 C:\Users\user\Documents\Adv Programming\ChimaAssignment\IoTDataCollector\MonitoringStationAPI\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\user\Documents\Adv Programming\ChimaAssignment\IoTDataCollector\MonitoringStationAPI\obj\Debug\net7.0\IOTDataCollectorAPI.sourcelink.json

@@ -237,3 +237,4 @@ C:\Users\user\Documents\Adv Programming\ChimaAssignment\IoTDataCollector\Sensors
 C:\Users\user\Documents\Adv Programming\ChimaAssignment\IoTDataCollector\SensorsAPI\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
 C:\Users\user\Documents\Adv Programming\ChimaAssignment\IoTDataCollector\SensorsAPI\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
 C:\Users\user\Documents\Adv Programming\ChimaAssignment\IoTDataCollector\SensorsAPI\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\user\Documents\Adv Programming\ChimaAssignment\IoTDataCollector\SensorsAPI\obj\Debug\net7.0\SensorsAPI.sourcelink.json
